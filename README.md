@@ -1,3 +1,6 @@
+# 공통과제 링크
+https://github.com/SJin-Choi/cra_car_samsung_250704
+
 ## 평가일정  
 1. 종료시간 17:30  
 2. 점심시간 11:30 ~ 12:30  
